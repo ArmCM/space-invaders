@@ -1,6 +1,9 @@
-# Playing with contributions panel
-
+# Playing with contributions panel, original repo
 ## Goal
+
+
+> ORIGINAL REPO `https://github.com/rachelcarmena?-space-invader`
+
 
 It's not the first time I meet a person who is worried about GitHub contributions panel.
 
@@ -26,4 +29,4 @@ $> chmod +x ./scripts/create-space-invader.sh
 
 I have a space invader in 2016:
 
-![Contributions panel](img/space-invader-in-2016.png)
+https://raw.githubusercontent.com/rachelcarmena/space-invader/master/img/space-invader-in-2016.png
